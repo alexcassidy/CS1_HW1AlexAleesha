@@ -2,6 +2,7 @@
 
 ## Story 2
 
+<<<<<<< HEAD
 It was a bright and sunny day. That doesn't happen very often. 
 
 
@@ -23,3 +24,6 @@ Author: Alex Cassidy <cassidya@student.swosu.edu>
 Date:   Wed Sep 6 19:21:33 2017 -0500
 
     first commit
+=======
+It was a bright and sunny day. That doesn't happen very often.
+>>>>>>> Alex
