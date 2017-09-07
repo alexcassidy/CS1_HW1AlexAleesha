@@ -1,0 +1,17 @@
+commit 082ad51c05bc6dc260ac3c433069c37923e263a2
+Author: Alex Cassidy <cassidya@student.swosu.edu>
+Date:   Wed Sep 6 19:47:29 2017 -0500
+
+    added git log
+
+commit 226f2fe09325cad4d204496ecbc6783a9e842a84
+Author: Alex Cassidy <cassidya@student.swosu.edu>
+Date:   Wed Sep 6 19:40:01 2017 -0500
+
+    added AlexStory
+
+commit 42f35ec5297f9a8e55e111b77ee947d40c770699
+Author: Alex Cassidy <cassidya@student.swosu.edu>
+Date:   Wed Sep 6 19:21:33 2017 -0500
+
+    first commit
